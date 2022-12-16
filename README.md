@@ -37,10 +37,7 @@ Here's a walkthrough of implemented user stories:
 > Please record screen to a GIF file and attach link here
 
 Yields:
-
 ![hippo](https://github.com/minhthao56/movies/blob/master/ezgif.com-gif-maker.gif)
-<br>
-<img src="https://github.com/minhthao56/movies/blob/master/ezgif.com-gif-maker.gif" />
 
 ## License
 
