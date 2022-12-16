@@ -35,9 +35,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 > Please record screen to a GIF file and attach link here
-> ![hippo](https://media.giphy.com/media/0grHBMJf11AWL0JMEy/giphy.gif)
 
 Yields:
+![hippo](https://media.giphy.com/media/0grHBMJf11AWL0JMEy/giphy.gif)
 
 ## License
 
