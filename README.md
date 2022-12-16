@@ -38,9 +38,9 @@ Here's a walkthrough of implemented user stories:
 
 Yields:
 
-![hippo](https://media.giphy.com/media/0grHBMJf11AWL0JMEy/giphy.gif)
+![hippo](https://github.com/minhthao56/movies/blob/master/ezgif.com-gif-maker.gif)
 <br>
-<img src="https://media.giphy.com/media/0grHBMJf11AWL0JMEy/giphy.gif" />
+<img src="https://github.com/minhthao56/movies/blob/master/ezgif.com-gif-maker.gif" />
 
 ## License
 
