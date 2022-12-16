@@ -39,6 +39,8 @@ Here's a walkthrough of implemented user stories:
 Yields:
 
 ![hippo](https://media.giphy.com/media/0grHBMJf11AWL0JMEy/giphy.gif)
+<br>
+<img src="https://media.giphy.com/media/0grHBMJf11AWL0JMEy/giphy.gif" />
 
 ## License
 
